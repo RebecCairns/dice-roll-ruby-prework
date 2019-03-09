@@ -3,5 +3,5 @@
 # Feel free to google "how to generate a random number in ruby"
 r = Random.new
 def roll
-  r.rand(1...7) 
+  rand(1...7) 
 end
