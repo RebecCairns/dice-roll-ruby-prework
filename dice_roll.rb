@@ -4,4 +4,5 @@
 r = Random.new
 def roll
   num = r.rand(1...7) 
+  return num
 end
